@@ -19,7 +19,7 @@
 1. اجرای مستقیم اسکریپت با استفاده از `curl`:
 
     ```bash
-    bash -c "$(curl -L https://raw.githubusercontent.com/azadrahorg/Install-MikroTik-CHR-on-VPS/main/mik-6486.sh)"
+    bash -c "$(curl -L https://raw.githubusercontent.com/o-k-l-l-a/Install-MikroTik-CHR-on-VPS/main/setup.sh)"
     ```
 
 2. لیست نسخه‌های موجود MikroTik به شما نمایش داده می‌شود. نسخه مورد نظر خود را انتخاب کرده و Enter را بزنید.
